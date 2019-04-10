@@ -1,0 +1,14 @@
+2019-03-13 17:30:35.724 [main] DEBUG com.imooc.dao.split.DynamicDataSourceInterceptor -设置方法[com.imooc.dao.AreaDao.queryArea] user [slave] Strategy,SqlCommanType [SELECT]..
+2019-03-13 17:30:35.757 [main] DEBUG com.imooc.dao.split.DynamicDataSourceHolder -所使用的数据源为slave
+2019-03-13 17:31:08.478 [main] DEBUG com.imooc.dao.split.DynamicDataSourceInterceptor -设置方法[com.imooc.dao.AreaDao.queryArea] user [slave] Strategy,SqlCommanType [SELECT]..
+2019-03-13 17:31:08.480 [main] DEBUG com.imooc.dao.split.DynamicDataSourceHolder -所使用的数据源为slave
+2019-03-13 17:33:54.111 [main] DEBUG com.imooc.dao.split.DynamicDataSourceInterceptor -设置方法[com.imooc.dao.AreaDao.queryArea] user [slave] Strategy,SqlCommanType [SELECT]..
+2019-03-13 17:33:54.113 [main] DEBUG com.imooc.dao.split.DynamicDataSourceHolder -所使用的数据源为slave
+2019-03-13 17:35:45.252 [main] DEBUG com.imooc.dao.split.DynamicDataSourceInterceptor -设置方法[com.imooc.dao.AreaDao.queryArea] user [slave] Strategy,SqlCommanType [SELECT]..
+2019-03-13 17:35:45.254 [main] DEBUG com.imooc.dao.split.DynamicDataSourceHolder -所使用的数据源为slave
+2019-03-13 17:37:28.976 [main] DEBUG com.imooc.dao.split.DynamicDataSourceInterceptor -设置方法[com.imooc.dao.ShopCategoryDao.queryShopCategory] user [slave] Strategy,SqlCommanType [SELECT]..
+2019-03-13 17:37:28.977 [main] DEBUG com.imooc.dao.split.DynamicDataSourceHolder -所使用的数据源为slave
+2019-03-13 17:39:08.005 [main] DEBUG com.imooc.dao.split.DynamicDataSourceInterceptor -设置方法[com.imooc.dao.ShopDao.updateShop] user [master] Strategy,SqlCommanType [UPDATE]..
+2019-03-13 17:39:08.006 [main] DEBUG com.imooc.dao.split.DynamicDataSourceHolder -所使用的数据源为master
+2019-03-13 17:42:37.266 [main] DEBUG com.imooc.dao.split.DynamicDataSourceInterceptor -设置方法[com.imooc.dao.ShopDao.insertShop] user [master] Strategy,SqlCommanType [INSERT]..
+2019-03-13 17:42:37.267 [main] DEBUG com.imooc.dao.split.DynamicDataSourceHolder -所使用的数据源为master

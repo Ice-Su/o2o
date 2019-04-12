@@ -91,7 +91,7 @@ public class ShopDetailController {
  			modelMap.put("success", false);
  			modelMap.put("errMsg", "empty pageSize or pageIndex or shopId");
  		}
-		return null;
+		return modelMap;
 	}
 
 	/**
